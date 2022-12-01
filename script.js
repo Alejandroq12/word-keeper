@@ -39,7 +39,6 @@ function isUserValid(username, password) {
 }
 
 
-
 function signIn(username, password) {
      if (isUserValid(username, password)) {
          console.log(newsfeed);
